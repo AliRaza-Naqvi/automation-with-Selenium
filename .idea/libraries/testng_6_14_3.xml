@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="testng-6.14.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../Driver/testng-6.14.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Driver/selenium-server-standalone-3.141.59.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Driver/extentreports-5.0.6.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../../Driver/poi-bin-5.0.0-20210120.zip!/poi-5.0.0/docs/apidocs/dev" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
